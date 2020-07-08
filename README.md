@@ -1,6 +1,7 @@
 # MyTutorApp
 
-## A simple platform that gather teacher and learner to bk classes
+## A simple platform that gather teacher and learner to book classes
+## The provided source code is password-protected. Kindly, contact me at zahirzainal869@gmail.com for any enquiries.
 
 ![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/a_landing%20page.PNG) 
 
