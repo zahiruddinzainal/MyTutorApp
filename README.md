@@ -1,10 +1,12 @@
 # MyTutorApp
 
+## A simple platform that gather teacher and learner to bk classes
+
 ![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/a_landing%20page.PNG) 
 
-## 1) Tutor side 
-
 ![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/b_tutorapp1.PNG)
+
+## 1) Tutor side 
 
 ![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/b_tutorapp2.PNG)
 
