@@ -26,6 +26,11 @@
 
 ![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/c_learnerside7.PNG)
 
-## 3) Database for the clasees information
+## 3) Database for the class information
 
 ![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/d_database.PNG)
+
+
+## 4) Database for the user information
+
+![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/d_database_user.PNG)
